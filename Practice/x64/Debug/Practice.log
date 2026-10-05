@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Users\Yar\source\repos\Practice\Practice\MyForm.cpp(34,9): warning C4244: return: преобразование "time_t" в "double", возможна потеря данных
+C:\Users\Yar\source\repos\Practice\Practice\MyForm.cpp(64,27): warning C4244: инициализация: преобразование "double" в "unsigned long", возможна потеря данных
+C:\Users\Yar\source\repos\Practice\Practice\MyForm.cpp(68,25): warning C4244: инициализация: преобразование "double" в "unsigned long", возможна потеря данных
+C:\Users\Yar\source\repos\Practice\Practice\MyForm.cpp(79,22): warning C4244: инициализация: преобразование "double" в "unsigned long", возможна потеря данных
+C:\Users\Yar\source\repos\Practice\Practice\MyForm.cpp(96,22): warning C4244: инициализация: преобразование "double" в "unsigned long", возможна потеря данных
+C:\Users\Yar\source\repos\Practice\Practice\MyForm.cpp(107,15): warning C4244: +=: преобразование "float" в "unsigned __int64", возможна потеря данных
+C:\Users\Yar\source\repos\Practice\Practice\MyForm.cpp(112,72): warning C4244: аргумент: преобразование "unsigned __int64" в "double", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\Yar\source\repos\Practice\Practice\MyForm.cpp(50,1): warning C4715: set_averaging: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Practice.vcxproj -> C:\Users\Yar\source\repos\Practice\x64\Debug\Practice.exe

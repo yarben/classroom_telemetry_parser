@@ -1,0 +1,4 @@
+C:\Users\Yar\source\repos\Practice\Practice\x64\Debug\Practice.vcxproj.AssemblyReference.cache
+C:\Users\Yar\source\repos\Practice\Practice\x64\Debug\Practice.MyForm.resources
+C:\Users\Yar\source\repos\Practice\Practice\x64\Debug\Practice.vcxproj.GenerateResource.cache
+C:\Users\Yar\source\repos\Practice\Practice\x64\Debug\Practice.vcxproj.Up2Date
